@@ -1,0 +1,22 @@
+
+PG Diploma in IT Infrastructure, Systems and Security (DITISS) - Modules
+Fundamental of Computer Networks
+80 Hours  
+Concepts of Operating System and Administration
+180 Hours  
+Security Concepts
+180 Hours  
+Compliance Audit
+30 Hours  
+Network Defense and Countermeasures (NDC)
+70 Hours  
+Cyber Forensics
+44 Hours  
+Public Key Infrastructure
+50 Hours  
+IT Infrastructure Management & DevOps
+86 Hours  
+Aptitude & Effective Communication
+90 Hours  
+Project
+90 Hours
